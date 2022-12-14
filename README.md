@@ -68,7 +68,7 @@ na escrita do código, pesquisas e ideias em todas as etapas da criação do pro
 <div align = center>
  Gabriel Vinicius  
   
-<a href="https://github.com/CaioLima96" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"> 
+<a href="https://github.com/gabrielxvnx" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"> 
   
   
 João Vitor
